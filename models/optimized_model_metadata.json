@@ -1,0 +1,14 @@
+{
+    "model_name": "SVM",
+    "default_accuracy": 0.9065,
+    "optimized_accuracy": 0.9031,
+    "improvement_percentage": -0.3750689464975134,
+    "best_hyperparameters": {
+        "C": 67.9774523809232,
+        "kernel": "rbf",
+        "gamma": "scale"
+    },
+    "feature_count": 104,
+    "training_samples": 60000,
+    "test_samples": 10000
+}
